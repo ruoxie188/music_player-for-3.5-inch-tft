@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/hpy/hpy_mp3_player_light/build/CMakeFiles/bootloader
+D:/hpy/hpy_mp3_player_light/build/CMakeFiles/bootloader.rule
+D:/hpy/hpy_mp3_player_light/build/CMakeFiles/bootloader-complete.rule
+D:/hpy/hpy_mp3_player_light/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/hpy/hpy_mp3_player_light/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/hpy/hpy_mp3_player_light/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/hpy/hpy_mp3_player_light/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/hpy/hpy_mp3_player_light/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/hpy/hpy_mp3_player_light/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/hpy/hpy_mp3_player_light/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

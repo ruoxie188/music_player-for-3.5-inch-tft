@@ -1,0 +1,23 @@
+{
+  "idf.openOcdConfigs": [
+    "board/esp32s3-bridge.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "clangd.path": "d:\\esp\\516_tools\\tools\\esp-clang\\15.0.0-23786128ae\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=d:\\esp\\516_tools\\tools\\xtensa-esp32s3-elf\\esp-12.2.0_20230208\\xtensa-esp32s3-elf\\bin\\xtensa-esp32s3-elf-gcc.exe",
+    "--compile-commands-dir=e:\\test for 3.5\\hpy_project\\build"
+  ],
+  "idf.flashType": "UART",
+  "idf.portWin": "COM23",
+  "files.associations": {
+    "stdio.h": "c",
+    "ws2812_task.h": "c"
+  },
+  "idf.espIdfPathWin": "d:\\Users\\esp\\v5.4.2\\esp-idf",
+  "idf.toolsPathWin": "d:\\esp\\541_tools",
+  "idf.pythonInstallPath": "d:\\esp\\541_tools\\tools\\idf-python\\3.11.2\\python.exe"
+}
