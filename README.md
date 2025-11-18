@@ -1,6 +1,5 @@
 # 立创 ESP32S3R8N8 全彩触摸 MP3 播放器
 
-**视频演示**：[【ESP32-S3 开发板 DIY 一个属于自己的 MP3】](https://www.bilibili.com/video/BV1xx4y1c7mC/)
 
 ## 项目介绍
 
